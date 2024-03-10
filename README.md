@@ -5,7 +5,8 @@
 Project Name : Restful-booker
 
 Url of the project
-https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth-CreateToken
+
+https://www.postman.com/pooja2310-93/workspace/postman-testcase/collection/18825428-65ab66a6-d3ad-43a0-8336-6bb2347c1771?action=share&creator=18825428
 
 
 
