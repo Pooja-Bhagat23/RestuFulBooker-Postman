@@ -13,4 +13,8 @@ Newman project Link
 
 C:\Postman\newman\Rest - Restful BOOKER API Testing-2024-03-10-18-51-16-813-0.html
 
+API Documentation
+
+https://restful-booker.herokuapp.com/apidoc/index.html
+
 
